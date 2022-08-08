@@ -61,7 +61,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 # Snapshot
 
-<img width="600" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/Challenge-Module19-BC/main/budget.png">
+<img width="600" alt=" Main Page" src="https://raw.githubusercontent.com/Mcnoor/React-Challenge-Portfolio-/main/public/img/reactportfolio.png">
 
 
 # Installation
