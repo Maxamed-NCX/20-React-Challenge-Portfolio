@@ -88,8 +88,8 @@ const projects = [
     image: "/img/reactportfolio.png",
     description:
       "A basic app that allows you to see the weather for a specific searched or saved city.",
-    repo: "https://github.com/Mcnoor/Challenge-Module20-BC",
-    live: "https://googlebooks-mcx.herokuapp.com/",
+    repo: "https://github.com/Mcnoor/React-Challenge-Portfolio-",
+    live: "https://mcnoor.github.io/React-Challenge-Portfolio-/",
   },
   {
     id: 6,
