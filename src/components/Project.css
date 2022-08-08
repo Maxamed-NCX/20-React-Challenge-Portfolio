@@ -1,0 +1,13 @@
+.media-content {
+  border: rgb(106, 162, 207) 0.5em solid;
+  background-color: rgb(106, 162, 207);
+}
+
+.card {
+  width: 25rem;
+  align-content: center;
+}
+
+.card-footer-item {
+  background-color: rgb(106, 162, 207);
+}

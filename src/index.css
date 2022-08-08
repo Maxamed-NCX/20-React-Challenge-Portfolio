@@ -1,0 +1,40 @@
+body {
+  font-family: Work Sans;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+main {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+.my-pic {
+  clip-path: polygon(
+    0% 0%,
+    100% 0%,
+    100% 75%,
+    75% 75%,
+    75% 100%,
+    50% 75%,
+    0% 75%
+  );
+  width: 300px;
+}
+
+.label {
+  text-align: left;
+}
+
+@media only screen and (max-width: 1024px) {
+  main {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+}
+
+

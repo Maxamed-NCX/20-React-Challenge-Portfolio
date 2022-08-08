@@ -1,0 +1,17 @@
+.navbar,
+.navbar-brand {
+  text-align: center;
+  display: block;
+  width: 100%;
+  background-color: #8cd0b0;
+}
+
+div.navbar-brand {
+  padding-top: 2em;
+  margin-bottom: 2em;
+}
+
+.navbar .navbar-brand > .navbar-item,
+.navbar .navbar-brand .navbar-link {
+  display: inline-block;
+}
