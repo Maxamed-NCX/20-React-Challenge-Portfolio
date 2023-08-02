@@ -124,6 +124,17 @@ const projects = [
     repo: "https://github.com/smethersblake/buy-blakes-bricks",
     live: "https://googlebooks-mcx.herokuapp.com/",
   },
+   {
+    id: 7,
+    title: "Run Buddy",
+    languages: "HTML, CSS,",
+    packages: "AWS EC2",
+    image: "/img/blakebldock.png",
+    description:
+      "A basic app that allows you to see the weather for a specific searched or saved city.",
+    repo: "https://github.com/smethersblake/buy-blakes-bricks",
+    live: "http://3.19.242.131/",
+  },
 ];
 
 function Portfolio() {
