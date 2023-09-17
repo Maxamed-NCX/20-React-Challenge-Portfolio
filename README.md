@@ -20,7 +20,7 @@
 
 
 ## GitHub 
-- [GitHub Pages](https://mcnoor.github.io/React-Challenge-Portfolio-/#portfolio)
+- [GitHub Pages](https://maxamed-ncx.github.io/React-Challenge-Portfolio-/)
 
 ### User Story
 
