@@ -105,6 +105,6 @@ It correctly bundles React in production mode and optimizes the build for the be
   
 # Questions?
 ## Please contact me:
-  * [My GitHub Profile](https://github.com/Mcnoor/)
-  * [My Github Project Repository](https://github.com/Mcnoor/React-Challenge-Portfolio-/)
+  * [My GitHub Profile](https://github.com/Maxamed-NCX/)
+  * [My Github Project Repository](https://github.com/Maxamed-NCX/20-React-Portfolio/)
   * Email us at: [maxanoor](mailto:maxanoor@gmail.com.com) with questions or make an issue about this project.
