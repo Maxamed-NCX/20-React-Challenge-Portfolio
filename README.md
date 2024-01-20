@@ -1,6 +1,6 @@
-# React-Challenge-Portfolio-
+# React Portfolio
 ## Challenge-Module20-BC
-
+React Portfolio
 
 ### Description
 
