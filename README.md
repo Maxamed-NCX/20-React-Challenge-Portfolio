@@ -1,5 +1,5 @@
 # React Portfolio
-## Challenge-Module20-BC
+## UofM BootCamp: Application 21
 React Portfolio
 
 ### Description
